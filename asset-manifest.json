@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8509a253.css",
-    "main.js": "/static/js/main.e006d599.js",
+    "main.css": "/static/css/main.be12cb35.css",
+    "main.js": "/static/js/main.1f5afde7.js",
     "static/media/småland.png": "/static/media/småland.e3fde1d6a7a15f62c615.png",
     "static/media/who-am-i-in-the-real-world.jpg": "/static/media/who-am-i-in-the-real-world.515477a8e15ca1e6cd58.jpg",
     "static/media/me-myself.jpeg": "/static/media/me-myself.40f66506493f7331ed7f.jpeg",
@@ -17,10 +17,12 @@
     "static/media/sanselab.jpeg": "/static/media/sanselab.4e9de05d5e3753eecd63.jpeg",
     "static/media/nina.jpeg": "/static/media/nina.e685b333c0edd1af6c54.jpeg",
     "static/media/old-new.jpeg": "/static/media/old-new.78bb9a819192fe6f7256.jpeg",
-    "index.html": "/index.html"
+    "index.html": "/index.html",
+    "main.be12cb35.css.map": "/static/css/main.be12cb35.css.map",
+    "main.1f5afde7.js.map": "/static/js/main.1f5afde7.js.map"
   },
   "entrypoints": [
-    "static/css/main.8509a253.css",
-    "static/js/main.e006d599.js"
+    "static/css/main.be12cb35.css",
+    "static/js/main.1f5afde7.js"
   ]
 }
