@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8509a253.css",
+    "main.js": "/static/js/main.e006d599.js",
+    "static/media/småland.png": "/static/media/småland.e3fde1d6a7a15f62c615.png",
+    "static/media/who-am-i-in-the-real-world.jpg": "/static/media/who-am-i-in-the-real-world.515477a8e15ca1e6cd58.jpg",
+    "static/media/me-myself.jpeg": "/static/media/me-myself.40f66506493f7331ed7f.jpeg",
+    "static/media/free-palestine.jpeg": "/static/media/free-palestine.273d1b7096d7056440df.jpeg",
+    "static/media/heartworn-strangeways.jpeg": "/static/media/heartworn-strangeways.e973263f7375a7c6b97f.jpeg",
+    "static/media/what-makes-us-attractive.jpeg": "/static/media/what-makes-us-attractive.0abdebe8e37783f633a0.jpeg",
+    "static/media/resilience.jpeg": "/static/media/resilience.c0cee88e2de899542892.jpeg",
+    "static/media/is-it-really-just-a-joke.jpeg": "/static/media/is-it-really-just-a-joke.178318ef071728ce6c8e.jpeg",
+    "static/media/the-media-killed-us.jpeg": "/static/media/the-media-killed-us.14d8fdc26cb781b9e03e.jpeg",
+    "static/media/bornholm.jpeg": "/static/media/bornholm.6dcd4918d5da337457c6.jpeg",
+    "static/media/drömtunnelen.jpeg": "/static/media/drömtunnelen.50ce6a3fafb6b1f3f5b6.jpeg",
+    "static/media/the-act.jpeg": "/static/media/the-act.6afac1a3f24e25202d85.jpeg",
+    "static/media/sanselab.jpeg": "/static/media/sanselab.4e9de05d5e3753eecd63.jpeg",
+    "static/media/nina.jpeg": "/static/media/nina.e685b333c0edd1af6c54.jpeg",
+    "static/media/old-new.jpeg": "/static/media/old-new.78bb9a819192fe6f7256.jpeg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.8509a253.css",
+    "static/js/main.e006d599.js"
+  ]
+}
