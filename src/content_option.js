@@ -92,6 +92,16 @@ const skills = [
   
 
 const dataportfolio = [
+      {
+        img: DSC00526,
+        description: "An artist book that explores the experiences of third-culture immigrants based in Sweden, focusing on identity, belonging, and the idea of home through color.",
+        link: "https://www.behance.net/gallery/251387769/Home-of-Colors",
+    },
+     {
+        img: cover,
+        description: "A printed matter exploring the misconceptions of E-Cigarettes as a safe alternative to traditional smoking.",
+        link: "https://www.behance.net/gallery/239995631/SMOKESCREEN-A-Lie-We-ALL-Inhale",
+    },
     {
         img: who_am_i,
         description: "A self-published zine exploring power structures and relationships within Visual Communication, created in connection with my internship at Verklighetslabbet, Region Kronoberg.",
@@ -108,19 +118,9 @@ const dataportfolio = [
         link: "https://www.behance.net/gallery/222705277/Droemtunneln",
     },
     {
-        img: the_media_killed_us,
-        description: "An installation on Chaos proposal exposing toxic beauty standards in media and their impact on self-esteem, mental health, and identity. Designed with transgressive visuals to raise awareness and challenge harmful norms.",
-        link: "https://www.behance.net/gallery/202885951/Bornholm",
-    },
-    {
         img: old_new,
         description: "‘Out With The New & In With The Old’ is a Video Essay film that showcases the evolution of cellular mobile phones used during the mid-90s / early 2000s.",
         link: "https://www.behance.net/gallery/202886681/Out-With-The-New-In-With-The-Old",
-    },
-    {
-        img: is_it_really_just_a_joke,
-        description: "A visual infographic examining the lingering impact of sexist TV humor across decades, using bold, unsettling visuals to challenge viewers’ perception.",
-        link: "https://www.behance.net/gallery/203036643/Is-It-Really-just-a-joke",
     },
     {
         img: resilience,
@@ -134,23 +134,8 @@ const dataportfolio = [
     },
     {
         img: heartworn,
-        description: "An experimental vinyl design using shades of blue, cyanotypes, and metaphorical storytelling to visualize music, loss, and the five stages of grief.",
+        description: "A vinyl cover design using shades of blue, cyanotypes, and metaphorical storytelling to visualize music, loss, and the five stages of grief.",
         link: "https://www.behance.net/gallery/197572391/Heartworn-Strangeways",
-    },
-    {
-        img: free_palestine,
-        description: "An installation showcasing one of the biggest movements in modern history.",
-        link: "https://www.behance.net/gallery/197570805/Free-Palestine",
-    },
-    {
-        img: attractive,
-        description: "The artist book explores inner beauty and how it truly makes us attractive in the eyes of others, even when one is not deemed conventionally attractive.",
-        link: "https://www.behance.net/gallery/197563531/What-Makes-Us-Attractive",
-    },
-    {
-        img: me_myself,
-        description: "An abstract collage and 3D poster series using a candle as a symbol of my identity, exploring mental health and personal growth through past, present, and future.",
-        link: "https://www.behance.net/gallery/197563031/Me-Myself-I",
     },
     {
         img: sanselab,
