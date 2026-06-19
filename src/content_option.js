@@ -12,7 +12,7 @@ import attractive from "./assets/projects/what-makes-us-attractive.jpeg";
 import me_myself from "./assets/projects/me-myself.jpeg";
 import sanselab from "./assets/projects/sanselab.jpeg";
 import bornholm from "./assets/projects/bornholm.jpeg";
-import nina from "./assets/images/nina.jpeg";
+import nina from "./assets/images/IMG_9848-2";
 
 const logotext = "NM";
 const meta = {
@@ -61,10 +61,6 @@ const worktimeline = [{
         date: "Jan 2023 - Mar 2023",
     },
     {
-        jobtitle: "Co-Founder & Head of Production",
-        where: "BeeWrapped UF",
-        date: "Aug 2019 - Jun 2020",
-    },
 ];
 
 const skills = [
